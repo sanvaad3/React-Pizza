@@ -1,7 +1,7 @@
 import React from 'react';
 
 function s() {
-  return <div>s</div>;
+  return <div>sssssss</div>;
 }
 
 export default s;
